@@ -19,6 +19,10 @@
         ;
 };
 
+&default_transform {
+    col-offset = <7>;
+};
+
 / {
     keys {
         compatible = "gpio-keys";

@@ -144,7 +144,7 @@
 		(descr "tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW2"
-			(at 3.25 -2 360)
+			(at 3.25 -2 0)
 			(layer "F.SilkS")
 			(uuid "db5800cb-a22a-4909-ac0f-18c0ac96716c")
 			(effects
@@ -155,7 +155,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 3.75 6.7 360)
+			(at 3.75 6.7 0)
 			(layer "F.Fab")
 			(uuid "1e8be45b-0b6d-4ca4-9100-049e97a48c74")
 			(effects
@@ -443,7 +443,7 @@
 			(uuid "17f0d236-7458-4c13-9537-686d21ed182f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.25 2.25 360)
+			(at 3.25 2.25 0)
 			(layer "F.Fab")
 			(uuid "2e7f05c1-6252-4dd1-8f0e-27286f22a3f8")
 			(effects
@@ -1355,7 +1355,7 @@
 		(at 208.3308 59.944)
 		(descr "Footprint for SuperMini nRF52840 (nRF52850 pro-micro compatible controller), USB pointing away from PCB")
 		(property "Reference" "U1"
-			(at -9.14 16.24 360)
+			(at -9.14 16.24 0)
 			(layer "F.SilkS")
 			(uuid "24474e96-6fa4-4bda-9f87-49eca7446e05")
 			(effects
@@ -1498,7 +1498,7 @@
 			)
 		)
 		(fp_text user "1"
-			(at -5.715 -13.2825 360)
+			(at -5.715 -13.2825 0)
 			(layer "F.SilkS")
 			(uuid "8e57abfe-ca17-4e2f-b8a6-fbc162ddf337")
 			(effects
@@ -1523,7 +1523,7 @@
 			)
 		)
 		(fp_text user "USB"
-			(at 0 -16.2 360)
+			(at 0 -16.2 0)
 			(layer "Cmts.User")
 			(uuid "a48921fe-8ae3-4380-ad96-648db507a016")
 			(effects
@@ -1895,7 +1895,7 @@
 		(at 193.6628 43.1898 180)
 		(descr "Ultraminiature Surface Mount Slide Switch, right-angle, https://www.ckswitches.com/media/1424/pcm.pdf")
 		(property "Reference" "SW1"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "F.SilkS")
 			(uuid "9203d4a1-960e-4206-8a28-68680119b2f3")
 			(effects
@@ -1906,7 +1906,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 0 4.25 360)
+			(at 0 4.25 0)
 			(layer "F.Fab")
 			(uuid "f6a6ca68-c552-4530-8807-628d969eeb7e")
 			(effects
@@ -2253,7 +2253,7 @@
 			(uuid "02f0f883-a93b-4973-a8d5-4bc20eb73070")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 -3.2 360)
+			(at 0 -3.2 0)
 			(layer "F.Fab")
 			(uuid "3a9d54ea-8b57-4733-a0f1-46ec30e53254")
 			(effects
@@ -7222,7 +7222,7 @@
 		(descr "JST XH series connector, B2B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST XH vertical boss")
 		(property "Reference" "J1"
-			(at 1.25 3.55 360)
+			(at 1.25 3.55 0)
 			(layer "B.SilkS")
 			(uuid "6a5904e3-1cc6-43bd-8bc8-eb7db5907566")
 			(effects
@@ -7234,7 +7234,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 1.25 -4.6 360)
+			(at 1.25 -4.6 0)
 			(layer "B.Fab")
 			(uuid "69e155a7-f858-4fc3-ade1-031aa2ceafd8")
 			(effects
@@ -7633,7 +7633,7 @@
 			(uuid "1023a3ab-ea0a-450f-9be3-bff88fc9a4e4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 -2.7 360)
+			(at 1.25 -2.7 0)
 			(layer "B.Fab")
 			(uuid "4eaa9ab7-d403-49b5-90d7-87f9f8c4059e")
 			(effects

@@ -8,6 +8,13 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
+if SHIELD_WINGS_RIGHT
+
+config CONFIG_CLOCK_CONTROL_NRF_K32SRC_RC
+    default y
+
+endif
+
 if SHIELD_WINGS_LEFT || SHIELD_WINGS_RIGHT
 
 config ZMK_SPLIT

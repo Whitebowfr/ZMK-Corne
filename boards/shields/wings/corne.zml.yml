@@ -1,13 +1,13 @@
 file_format: "1"
-id: wings
-name: Wings
+id: corne
+name: Corne
 type: shield
-url: https://github.com/Whitebowfr/ZMK-wings
+url: https://github.com/Whitebowfr/ZMK-corne
 requires: [pro_micro]
 exposes: []
 features:
   - keys
   - studio
 siblings:
-  - wings_left
-  - wings_right
+  - corne_left
+  - corne_right
